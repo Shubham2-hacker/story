@@ -1,1 +1,2 @@
 I will become full stack developer.
+I am learning git.
